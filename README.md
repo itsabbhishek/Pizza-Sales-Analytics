@@ -38,13 +38,13 @@ Interactive elements such as slicers, filters, and drill-down capabilities enabl
 
 #### Slide 1: Key Performance Indicators (KPIs)
 
-![Sales Navigator Dashboard - KPIs](Sales Navigator_page-0001)
+![Sales Navigator Dashboard - KPIs](Sales Navigator_page-0001.jpg)
 
 The first slide of the Power BI dashboard provides an overview of key performance indicators (KPIs) such as total sales revenue, sales growth rate, customer acquisition cost, and customer satisfaction score. These KPIs offer stakeholders a high-level view of sales performance and help identify areas that require further analysis and improvement.
 
 #### Slide 2: Top and Bottom Comparison
 
-![Sales Navigator Dashboard - Top and Bottom Comparison](Sales Navigator_page-0002)
+![Sales Navigator Dashboard - Top and Bottom Comparison](Sales Navigator_page-0002.jpg)
 
 The second slide of the Power BI dashboard offers a top and bottom comparison of sales performance, highlighting the best-performing and worst-performing products, sales regions, or sales representatives. This comparison enables stakeholders to identify successful strategies and areas for optimization, driving more targeted and effective sales initiatives.
 
